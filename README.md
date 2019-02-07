@@ -1,2 +1,2 @@
 # firewok-WP-child-theme
-Wordpress child theme for firewok.co.uk using ACF and woocommerce
+Wordpress **Storefront** child theme for firewok.co.uk using ACF and woocommerce
